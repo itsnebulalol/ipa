@@ -9,10 +9,8 @@
             "developerName": "Discord mod for iOS",
             "version": "1.0.8",
             "versionDate": "2022-04-16",
-            "downloadURL": 
-"https:\/\/github.com\/enmity-mod\/enmity-ios\/releases\/download\/release-v1.0.8\/Enmity.ipa",
-            "localizedDescription": "Based on Discord v122 | The best (and only) full Discord mod for iOS with theme 
-and plugin support.",
+            "downloadURL": "https:\/\/github.com\/enmity-mod\/enmity-ios\/releases\/download\/release-v1.0.8\/Enmity.ipa",
+            "localizedDescription": "Based on Discord v122 | The best (and only) full Discord mod for iOS with theme and plugin support.",
             "iconURL": "https:\/\/ipa.itsnebula.net\/icons\/enmity.png",
             "tintColor": "FFC300",
             "size": 59454259,
