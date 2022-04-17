@@ -1,7 +1,7 @@
 {
     "name": "Nebula's IPA Library",
     "identifier": "me.nebula.ipalibrary",
-    "sourceURL": "https:\/ipa.itsnebula.net\/esign.json",
+    "sourceURL": "https:\/ipa.itsnebula.net\/repo.json",
     "apps": [
         {
             "name": "Enmity",
@@ -17,6 +17,22 @@
             "screenshotURLs": [
                 "https:\/\/cdn.discordapp.com\/attachments\/950850316318933004\/964960560162697246\/IMG_0403.png",
                 "https:\/\/cdn.discordapp.com\/attachments\/961782176062509117\/962839961567100938\/IMG_0113.png"
+            ]
+        },
+        {
+            "name": "Ourea",
+            "bundleIdentifier": "com.nightwind.Ourea",
+            "developerName": "Third party shortcuts store",
+            "version": "0.1.1",
+            "versionDate": "2022-04-16",
+            "downloadURL": "https:\/\/github.com\/NightwindDev\/Ourea-Help\/raw\/main\/Ourea_0.1.1.ipa",
+            "localizedDescription": "Custom store for third party shortcuts.",
+            "iconURL": "https:\/\/cdn.discordapp.com\/attachments\/933557683720712195\/965066593342218291\/OureaIcon.png",
+            "tintColor": "FFC300",
+            "size": 9856614,
+            "screenshotURLs": [
+                "https:\/\/cdn.discordapp.com\/attachments\/933557683720712195\/965067034637525093\/IMG_1069.PNG",
+                "https:\/\/cdn.discordapp.com\/attachments\/933557683720712195\/965067034843041832\/IMG_1063.PNG"
             ]
         }
     ]
